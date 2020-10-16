@@ -12,7 +12,7 @@ Login Authority: as ADMIN and as USER
  Data is stored in CSV files.
 
 == PROGRAM STRUCTURE == 
-
+```
 Facility-Resevation-CUI-Version
  └──csv/
  |    ├── facility.csv
@@ -60,3 +60,4 @@ Facility-Resevation-CUI-Version
           ├── DataFormatException.java
           ├── DataIOException.java
           └── DataValueExceptiom.java
+```
