@@ -1,6 +1,6 @@
 # Facility-Reservation-CUI-Version
 
-A program run on console, purely written in Java.
+This is a program I've created after 3 week Java training. A program run on console, purely written in Java.
 This program allow user to reserve facility (facility means such as meeting room, or public space etc...)
 
 Program flow: Login → Menu (displays feature)　→ Perform → Quit.
