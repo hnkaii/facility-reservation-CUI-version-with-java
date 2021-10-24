@@ -85,3 +85,26 @@ Facility-Resevation-CUI-Version
 
 <img width="1163" alt="Screen Shot 2021-10-24 at 10 33 17" src="https://user-images.githubusercontent.com/45198696/138576454-0c4ca47d-e5a6-46ce-8159-c2d5698195d2.png">
 
+
+### Login as User
+
+1. Make inquiry on the schedule of any facility
+<img width="958" alt="Screen Shot 2021-10-24 at 10 37 08" src="https://user-images.githubusercontent.com/45198696/138576619-7178b755-4f2b-4906-bd5c-f2910a873d4e.png">
+
+<img width="911" alt="Screen Shot 2021-10-24 at 10 37 28" src="https://user-images.githubusercontent.com/45198696/138576625-bb6f1641-79b6-431d-a6bb-c80af302b7df.png">
+
+<img width="1098" alt="Screen Shot 2021-10-24 at 10 38 52" src="https://user-images.githubusercontent.com/45198696/138576629-3ca879a0-d80e-42db-a156-9d5388cb51b7.png">
+
+2. Make a reservation
+
+<img width="897" alt="Screen Shot 2021-10-24 at 10 39 36" src="https://user-images.githubusercontent.com/45198696/138576635-1a9e5e94-799e-47be-a71e-0ee304e65581.png">
+
+<img width="1017" alt="Screen Shot 2021-10-24 at 10 40 47" src="https://user-images.githubusercontent.com/45198696/138576640-16c22a65-3ebb-4831-8063-6b9e7beafc51.png">
+
+<img width="788" alt="Screen Shot 2021-10-24 at 10 41 02" src="https://user-images.githubusercontent.com/45198696/138576659-c2d78567-b983-4059-8c6a-f055f7996678.png">
+
+
+
+
+
+
